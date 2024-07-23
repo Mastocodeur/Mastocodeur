@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm passionate about coding and I'm trying to turn my github into a real documentation space. I try to make complete files so that they can be understood and reused by everyone.
 ___
 
 
