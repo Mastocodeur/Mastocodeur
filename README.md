@@ -4,7 +4,8 @@ I'm passionate about coding and I'm trying to turn my github into a real documen
 ___
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur&left_color=green&right_color=red)
+![Visiteurs](https://visitor-badge.glitch.me/badge?page_id=Mastocodeur.Mastocodeur&left_color=green&right_color=red)
+
 
 
 
