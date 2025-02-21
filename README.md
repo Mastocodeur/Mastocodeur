@@ -1,14 +1,24 @@
 ## Hi there 👋
 
-I'm passionate about coding and I'm trying to turn my github into a real documentation space. I try to make complete files so that they can be understood and reused by everyone.
+I'm passionate about coding and I'm trying to turn my Github into a real documentation space. I try to make complete files so that they can be understood and reused by everyone.
 ___
 
+### About Me 🚀
+👨‍💻 I am passionate about Data Science & AI 
+🧑‍🎓 I enjoy learning new things
+✍️ I love creating meticulously clean and well-structured documentation !
+
+### My Experiences 🙌
+- [Data Scientist for smeg.mc](https://www.smeg.mc/) 
+- [Data Scientist for Education Nationale (Freelance)](https://www.education.gouv.fr/)
+- [Data Scientist for Orano (Freelance)](https://www.orano.group/fr) 
+- [Data Scientist (Internship and freelance)](https://datacraft.paris/) 
+- [Data Analyst (Internship)](https://omaj.fr/)
 
 
 
 
-
-<!--![Mastocodeur's github stats](https://github-readme-stats.vercel.app/api?username=Mastocodeur&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+<!--![Mastocodeur's Github stats](https://github-readme-stats.vercel.app/api?username=Mastocodeur&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
 ![Mastocodeur's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact&langs_count=8&hide_border=true)
 <br />
 
