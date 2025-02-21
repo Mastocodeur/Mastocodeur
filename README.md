@@ -4,8 +4,8 @@ I'm passionate about coding and I'm trying to turn my Github into a real documen
 ___
 
 ### About Me 🚀
-👨‍💻 I am passionate about Data Science & AI 
-🧑‍🎓 I enjoy learning new things
+👨‍💻 I am passionate about Data Science & AI </br>
+🧑‍🎓 I enjoy learning new things </br>
 ✍️ I love creating meticulously clean and well-structured documentation !
 
 ### My Experiences 🙌
