@@ -15,7 +15,7 @@ ___
 - [Data Scientist for datacraft (Internship and freelance)](https://datacraft.paris/) 
 - [Data Analyst for OMAJ (Internship)](https://omaj.fr/)
 
-
+[](logo_entreprises.jpg)
 
 
 <!--![Mastocodeur's Github stats](https://github-readme-stats.vercel.app/api?username=Mastocodeur&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
