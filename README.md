@@ -9,7 +9,7 @@ ___
 ✍️ I love creating meticulously clean and well-structured documentation !
 
 ### My Experiences 🙌
-- [Data Scientist for smeg.mc](https://www.smeg.mc/) 
+- [Data Scientist for smeg.mc (Internship)](https://www.smeg.mc/) 
 - [Data Scientist for Education Nationale (Freelance)](https://www.education.gouv.fr/)
 - [Data Scientist for Orano (Freelance)](https://www.orano.group/fr) 
 - [Data Scientist for datacraft (Internship and freelance)](https://datacraft.paris/) 
