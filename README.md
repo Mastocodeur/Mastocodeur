@@ -4,7 +4,7 @@ I'm passionate about coding and I'm trying to turn my github into a real documen
 ___
 
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
+
 
 
 
@@ -13,6 +13,9 @@ ___
 <br />
 
 
+## Welcome visitors ! 
+
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
 
 <!--
 **Mastocodeur/Mastocodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
