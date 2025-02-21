@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about coding and I'm trying to turn my Github into a real documentation space. I try to make complete files so that they can be understood and reused by everyone.
+I'm passionate about coding and want to transform my GitHub into a comprehensive documentation hub. I strive to create thorough, clear, and reusable files so that anyone can understand and make use of them.
 ___
 
 ### About Me 🚀
