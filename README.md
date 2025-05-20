@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, welcome on my Github Page ! 
+## Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
 
 I'm passionate about coding and want to transform my GitHub into a comprehensive documentation hub. I strive to create thorough, clear, and reusable files so that anyone can understand and make use of them.
