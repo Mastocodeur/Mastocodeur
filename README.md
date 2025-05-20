@@ -18,9 +18,9 @@ ___
 ![](logos_entreprises.jpg)
 
 
-<!--![Mastocodeur's Github stats](https://github-readme-stats.vercel.app/api?username=Mastocodeur&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Mastocodeur's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact&langs_count=8&hide_border=true)
-<br />
+### 🛠 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact)
 
 
 ### 🌍 Connect with me
