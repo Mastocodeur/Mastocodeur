@@ -25,7 +25,7 @@ ___
 
 ### 🌍 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgasmi/?locale=en_US)](https://www.linkedin.com/in/rgasmi/?locale=en_US)
-[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=[https://github.com/noweh/](https://github.com/Mastocodeur))]([https://www.github.com/noweh/](https://github.com/Mastocodeur))
+[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Mastocodeur)](https://github.com/Mastocodeur)
 
 ## Welcome visitors ! 
 
