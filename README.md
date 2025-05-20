@@ -1,4 +1,5 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, welcome on my Github Page ! 
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
 
 I'm passionate about coding and want to transform my GitHub into a comprehensive documentation hub. I strive to create thorough, clear, and reusable files so that anyone can understand and make use of them.
 ___
@@ -27,9 +28,7 @@ ___
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgasmi/?locale=en_US)](https://www.linkedin.com/in/rgasmi/?locale=en_US)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Mastocodeur)](https://github.com/Mastocodeur)
 
-## Welcome visitors ! 
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
 
 
 
