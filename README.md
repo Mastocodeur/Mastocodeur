@@ -24,14 +24,14 @@ ___
 
 ___
 
-### 📌 Featured Projects
+### Featured Projects 📌
 
 - 🔍 [**SQL Fast Learner**](https://github.com/Mastocodeur/sql-fast-learner)  
   A complete SQL learning course with theory and hands-on practice notebooks using **Jupyter Book**.  
   Topics include SELECT, JOIN, GROUP BY, subqueries, window functions, and more. Ideal for beginners and refreshing skills.
 ___
 
-### ⚙️ Languages & Tech Stack
+### Languages & Tech Stack ⚙️ 
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -55,7 +55,7 @@ ___
 
 ___
 
-### 🌍 Connect with me
+### Connect with me 🌍 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgasmi/?locale=en_US)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white)](https://github.com/Mastocodeur)
 
