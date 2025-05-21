@@ -23,6 +23,7 @@ ___
 <div align="center">
   <img src="logos_entreprises.png" alt="Logos entreprises" />
 </div>
+
 ___
 
 ### Featured Projects 📌
