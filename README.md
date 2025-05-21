@@ -16,7 +16,7 @@ ___
 - [Data Scientist for datacraft (Internship and freelance)](https://datacraft.paris/) 
 - [Data Analyst for OMAJ (Internship)](https://omaj.fr/)
 
-![](logos_entreprises.jpg)
+![](logos_entreprises.png)
 
 ### 📌 Featured Projects
 
