@@ -20,8 +20,9 @@ ___
 - [Data Scientist for datacraft (Internship and freelance)](https://datacraft.paris/) 
 - [Data Analyst for OMAJ (Internship)](https://omaj.fr/)
 
-![](logos_entreprises.png)
-
+<div align="center">
+  <img src="logos_entreprises.png" alt="Logos entreprises" />
+</div>
 ___
 
 ### Featured Projects 📌
@@ -48,8 +49,10 @@ ___
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact" alt="Top Langs" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mastocodeur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
