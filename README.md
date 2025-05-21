@@ -9,6 +9,8 @@ ___
 🧑‍🎓 Lifelong learner, always curious  
 ✍️ Obsessed with clean, well-structured documentation  
 
+___
+
 ### My Experiences 🙌
 - [Data Scientist for smeg.mc (Internship)](https://www.smeg.mc/) 
 - [Data Scientist for Education Nationale (Freelance)](https://www.education.gouv.fr/)
@@ -18,12 +20,14 @@ ___
 
 ![](logos_entreprises.png)
 
+___
+
 ### 📌 Featured Projects
 
 - 🔍 [**SQL Fast Learner**](https://github.com/Mastocodeur/sql-fast-learner)  
   A complete SQL learning course with theory and hands-on practice notebooks using **Jupyter Book**.  
   Topics include SELECT, JOIN, GROUP BY, subqueries, window functions, and more. Ideal for beginners and refreshing skills.
-
+___
 
 ### ⚙️ Languages & Tech Stack
 
@@ -38,7 +42,7 @@ ___
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mastocodeur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+___
 
 ### 🌍 Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgasmi/?locale=en_US)](https://www.linkedin.com/in/rgasmi/?locale=en_US)
