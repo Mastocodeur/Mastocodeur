@@ -18,13 +18,17 @@ ___
 
 ![](logos_entreprises.jpg)
 
+### 📌 Featured Projects
 
-### 🛠 Languages /⚙️ Tech Stack
+- 🔍 [**SQL Fast Learner**](https://github.com/Mastocodeur/sql-fast-learner)  
+  A complete SQL learning course with theory and hands-on practice notebooks using **Jupyter Book**.  
+  Topics include SELECT, JOIN, GROUP BY, subqueries, window functions, and more. Ideal for beginners and refreshing skills.
 
+
+### ⚙️ Languages & Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/-Polars-009CDE?style=flat&logo=data&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
