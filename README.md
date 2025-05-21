@@ -1,13 +1,13 @@
 ## Hi there, Welcome on my Github Page ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 ![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Mastocodeur.Mastocodeur)
 
-I'm passionate about coding and want to transform my GitHub into a comprehensive documentation hub. I strive to create thorough, clear, and reusable files so that anyone can understand and make use of them.
+I'm passionate about coding and committed to turning my GitHub into a structured and valuable documentation hub. I focus on creating clear, reusable, and insightful resources to help others learn and build effectively.
 ___
 
 ### About Me 🚀
-👨‍💻 I am passionate about Data Science & AI </br>
-🧑‍🎓 I enjoy learning new things </br>
-✍️ I love creating meticulously clean and well-structured documentation !
+👨‍💻 Passionate about Data Science & AI  
+🧑‍🎓 Lifelong learner, always curious  
+✍️ Obsessed with clean, well-structured documentation  
 
 ### My Experiences 🙌
 - [Data Scientist for smeg.mc (Internship)](https://www.smeg.mc/) 
@@ -19,9 +19,21 @@ ___
 ![](logos_entreprises.jpg)
 
 
-### 🛠 Languages
+### 🛠 Languages /⚙️ Tech Stack
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-009CDE?style=flat&logo=data&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B0000?style=flat&logo=python&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mastocodeur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### 🌍 Connect with me
