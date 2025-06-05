@@ -64,7 +64,8 @@ ___
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org)
-[![STUMPY](https://img.shields.io/badge/-Stumpy-00BFC4?style=flat&logo=python&logoColor=white)](https://stumpy.readthedocs.io)
+[![STUMPY](https://img.shields.io/badge/-STUMPY-00BFC4?style=flat&logo=gear&logoColor=white)](https://stumpy.readthedocs.io)
+
 
 
 
