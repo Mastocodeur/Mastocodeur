@@ -56,6 +56,7 @@ ___
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Polars](https://img.shields.io/badge/-Polars-CD792C?style=flat&logo=polars&logoColor=white)](https://www.pola.rs)
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
+[![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev)
@@ -66,7 +67,6 @@ ___
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org)
 [![STUMPY](https://img.shields.io/badge/-STUMPY-00BFC4?style=flat&logo=python&logoColor=white)](https://stumpy.readthedocs.io)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 [![Taipy](https://img.shields.io/badge/-Taipy-1E90FF?style=flat&logo=python&logoColor=white)](https://www.taipy.io)
 
 
