@@ -84,6 +84,11 @@ ___
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
+**🔐 Cybersécurité :**  
+[![OSINT](https://img.shields.io/badge/OSINT-5E5DF0?style=flat&logo=search&logoColor=white)](https://osintframework.com)  
+[![Root Me](https://img.shields.io/badge/Root_Me-111111?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org)  
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org)
+
 **Environments :**  
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
