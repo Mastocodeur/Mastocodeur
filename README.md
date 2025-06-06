@@ -89,16 +89,6 @@ ___
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org)
 
 
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastocodeur&layout=compact" alt="Top Langs" />
-</div>
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mastocodeur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ___
