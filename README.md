@@ -4,6 +4,11 @@
 I'm passionate about coding and committed to turning my GitHub into a well-structured, valuable documentation hub.  
 I focus on creating clear, reusable, and insightful resources to help others learn and build effectively.
 
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/86ccefcdcc889d59ab0b626e1f202635862b878c/topics/python/python.png"></code>
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/sql/sql.png"></code>
+<code><img height="20" alt="r" src="https://raw.githubusercontent.com/github/explore/38d3105ccf3f7cc18f1a2b3ae8e4ef6b64a9f08f/topics/r/r.png"></code>
+
 ___
 
 ### About Me 🚀
