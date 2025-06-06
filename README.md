@@ -85,8 +85,8 @@ ___
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 **🔐 Cybersécurité :**  
-[![OSINT](https://img.shields.io/badge/OSINT-5E5DF0?style=flat&logo=search&logoColor=white)](https://osintframework.com)  
-[![Root Me](https://img.shields.io/badge/Root_Me-111111?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org)  
+[![OSINT](https://img.shields.io/badge/OSINT-5E5DF0?style=flat&logo=search&logoColor=white)](https://osintframework.com)
+[![Root Me](https://img.shields.io/badge/Root_Me-111111?style=flat&logo=tryhackme&logoColor=white)](https://www.root-me.org)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org)
 
 **Environments :**  
