@@ -48,13 +48,10 @@ Exploration and advanced learning of the Scikit-learn library. This project invo
 ___
 
 ### Languages & Tech Stack ⚙️ 
-<!-- Python -->
+
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<!-- C++ -->
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<!-- SQL -->
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<!-- R -->
 <code><img height="20" alt="r" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
 
 
