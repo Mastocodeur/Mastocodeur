@@ -6,11 +6,12 @@ I focus on creating clear, reusable, and insightful resources to help others lea
 
 ___
 
+<div style="border:1px solid #ddd; border-radius:8px; padding:2px 16px 16px; margin-bottom:24px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
 ### About Me 🚀
 👨‍💻 Passionate about Data Science & AI  
 🧑‍🎓 Lifelong learner, always curious  
 ✍️ Obsessed with clean, well-structured documentation  
-
+</div>
 ___
 
 ### My Experiences 🙌
