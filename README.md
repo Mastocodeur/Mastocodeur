@@ -30,8 +30,11 @@ ___
 ### Featured Projects 📌
 
 - 🔍 [**SQL Fast Learner**](https://github.com/Mastocodeur/sql-fast-learner)  
-  A complete SQL learning course with theory and hands-on practice notebooks using **Jupyter Book**.  
-  Topics include SELECT, JOIN, GROUP BY, subqueries, window functions and more. Ideal for beginners, refresher courses or further training.
+  A complete SQL course combining theory and hands-on practice in Jupyter Book.
+  Covers core and advanced topics like SELECT, JOINs, GROUP BY, CTEs, window functions, CRUD operations, transactions, stored procedures, indexing, and data validation.
+  Ideal for beginners, refreshers, and advanced learners aiming to strengthen their SQL skills for real-world data analysis.
+
+
 ___
 
 
