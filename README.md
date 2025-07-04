@@ -33,6 +33,11 @@ ___
   A complete SQL course combining theory and hands-on practice in Jupyter Book.
   Covers core and advanced topics like SELECT, JOINs, GROUP BY, CTEs, window functions, CRUD operations, transactions, stored procedures, indexing, and data validation.
   Ideal for beginners, refreshers, and advanced learners aiming to strengthen their SQL skills for real-world data analysis.
+  
+- 🚆 [**SNCF Project**](https://github.com/Mastocodeur/sncf-project)  
+  A Streamlit app that connects to the official SNCF API to monitor real-time train traffic on a specific commute route.  
+  Displays upcoming departures, delays, and cancellations, and sends email alerts when disruptions occur — even those not shown in the station.  
+  Designed for shared use among colleagues who take the same route daily, with an online deployment for easy access.
 
 
 ___
