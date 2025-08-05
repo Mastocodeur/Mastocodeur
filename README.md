@@ -15,6 +15,8 @@ ___
 ___
 
 ### My Experiences 🙌
+- [Data Scientist for Studi (Freelance)](https://www.studi.com/fr)
+- [Data Scientist for ACL Centrale Lyon (Freelance)](https://www.centraliens-lyon.net/)
 - [Data Scientist for smeg.mc (Internship)](https://www.smeg.mc/) 
 - [Data Scientist for Education Nationale (Freelance)](https://www.education.gouv.fr/)
 - [Data Scientist for Orano (Freelance)](https://www.orano.group/fr) 
