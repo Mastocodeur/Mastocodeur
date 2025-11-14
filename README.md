@@ -41,6 +41,12 @@ ___
   Displays upcoming departures, delays, and cancellations, and sends email alerts when disruptions occur — even those not shown in the station.  
   Designed for shared use among colleagues who take the same route daily, with an online deployment for easy access.
 
+- 💳 [**RIB Extractor**](https://github.com/Mastocodeur/rib-extractor)  
+  A Streamlit-based OCR application that automatically extracts banking details from French RIB (bank account) PDFs — whether digital or scanned.  
+  Uses **Tesseract OCR**, **regex-based parsing**, and **IBAN/BIC validation** with `python-stdnum`.  
+  Exports structured, validated data (bank code, branch, account number, key, IBAN, BIC, domiciliation, and holder name) to a clean CSV format.  
+  Ideal for accountants, freelancers, and fintech developers dealing with large sets of RIB documents.
+
 
 ___
 
